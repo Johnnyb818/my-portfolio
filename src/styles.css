@@ -1,15 +1,15 @@
 body {
   text-shadow: #000 0px 0px 1px;
-text-align: center;
-color: rgb(9, 155, 57);
-background-color: black;
+  text-align: center;
+  color: rgb(9, 155, 57);
+  background-color: black;
 }
 
 .container {
   margin-top: 8%;
-display: flex;
-flex-direction: row;
-justify-content: space-evenly;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-evenly;
 }
 
 .App {
@@ -18,26 +18,26 @@ justify-content: space-evenly;
 }
 
 img {
-width: 90%
+  width: 90%;
 }
 
 .project {
-background-color: slateblue;
-border-radius: 7px;
-border: 5px solid rgba(49, 4, 121, 0.932);
-width: 30%
+  background-color: slateblue;
+  border-radius: 7px;
+  border: 5px solid rgba(49, 4, 121, 0.932);
+  width: 30%;
 }
 
 a {
-padding: 5px;
-border: 3px solid black;
-background-color: black;
-border-radius: 7px;
-text-decoration: none;
-color: whitesmoke
+  padding: 5px;
+  border: 3px solid black;
+  background-color: black;
+  border-radius: 7px;
+  text-decoration: none;
+  color: whitesmoke;
 }
 
 a:hover {
-background-color: white;
-color: black;
+  background-color: white;
+  color: black;
 }

@@ -1,8 +1,14 @@
+@import url('https://fonts.googleapis.com/css2?family=Audiowide&display=swap');
+
 body {
   text-shadow: #000 0px 0px 1px;
   text-align: center;
   color: rgb(9, 155, 57);
   background-color: black;
+}
+
+* {
+  font-family: 'Audiowide', cursive;
 }
 
 .container {

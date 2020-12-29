@@ -27,7 +27,7 @@ class App extends React.Component {
             <Projects
               name={"Style-Points"}
               git={"https://github.com/Johnnyb818/project2setup"}
-              live={"https://johnproject2setup.herokuapp.com/boards/"}
+              live={"https://johnproject2setup.herokuapp.com"}
               img={"https://i.imgur.com/AzUvG57.png"}
             />
           </div>
